@@ -1,11 +1,8 @@
 body {
     color: white;
     background-color: black;
-    
-
-    margin-left: auto;
-    margin-right: auto;
-    width: 790px;
+    padding-left: 35%;
+    width: 800px;
 }
 h3{
     font-family:DejaVu Sans Mono;
@@ -20,7 +17,7 @@ h6{
     color: rgb(228, 206, 206);
     width: 50%;
     border: 3px solid gold;
-    margin: 10px;
+    
 }
 .header{
     background-image: url('majani.jpg');

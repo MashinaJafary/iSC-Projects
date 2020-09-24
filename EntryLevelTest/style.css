@@ -1,0 +1,42 @@
+body {
+    color: white;
+    background-color: black;
+    
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 790px;
+}
+h3{
+    font-family:DejaVu Sans Mono;
+    font-style: italic;
+    text-align: center;
+}
+.blog {
+    align-content: center;
+    color: rgb(228, 206, 206);
+    width: 50%;
+    border: 3px solid gold;
+    margin: 10px;
+}
+.header{
+    background-image: url('majani.jpg');
+    border-radius: 22px;
+    width: 394px;
+    height: 100px;
+    margin-right: 100%;
+    padding: no;
+}
+ol{
+    list-style-type: decimal;
+}
+.story {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    color: rgb(228, 206, 206);
+}
+footer,img{
+    border-radius: 50%;
+
+}
